@@ -23,4 +23,3 @@ load_all()
 strsplit1(x, split = ",")
 
 exists("strsplit1", where = globalenv(), inherits = FALSE)
-check()
